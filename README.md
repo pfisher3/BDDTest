@@ -3,5 +3,8 @@ BDDTest
 
 Quick Sample BDD, Cukes Test
 
-Clone Git Repo, Then Import to IDE as this utilizes Pom.xml file which imports all required external library dependencies 
-in order to run
+Clone Git Repo, Then Import to IDE as Maven project.
+
+The structure utilizes the pom.xml file which should import all required external library dependencies.
+
+To Run, in Intellij, Select Run>Run:Feature:amazonHome.feature 
